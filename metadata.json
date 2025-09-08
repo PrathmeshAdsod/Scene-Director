@@ -1,0 +1,5 @@
+{
+  "name": "StoryDirector",
+  "description": "An AI-powered app that turns a one-line scene idea and character images into a cinematic shotlist, storyboard frames, and a preview animatic. It uses Gemini to generate structured shotlists and consistent scene images.",
+  "requestFramePermissions": []
+}
